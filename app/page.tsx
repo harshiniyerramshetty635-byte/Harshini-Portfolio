@@ -1,4 +1,4 @@
-import HarshiniPortfolio from "../components/HarshiniPortfolio";
+import HarshiniPortfolio from "../Components/HarshiniPortfolio";
 
 export default function Page() {
   return <HarshiniPortfolio />;
